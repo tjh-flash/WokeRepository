@@ -1,0 +1,8 @@
+prefix=/home/fshs/catkin_ws/src/halcon_test/build/devel
+
+Name: halcon_test
+Description: Description of halcon_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
