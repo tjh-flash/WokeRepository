@@ -1,0 +1,7 @@
+int8 Axis_X
+int8 Axis_Y
+int8 Axis_Z
+int8 Axis_A
+int8 Axis_B
+int8 Axis_C
+---

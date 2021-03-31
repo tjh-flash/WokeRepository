@@ -1,0 +1,8 @@
+prefix=/home/fshs/catkin_ws/src/haptic_bridge/build/devel
+
+Name: haptic_bridge
+Description: Description of haptic_bridge
+Version: 0.0.0
+Cflags: -I/home/fshs/catkin_ws/src/haptic_bridge/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: haptic_bridge
+Description: Description of haptic_bridge
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
